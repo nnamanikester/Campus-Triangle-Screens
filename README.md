@@ -9,6 +9,9 @@ This is a Repository that has all the screens in campus triangle app and the des
 The screen that opens up first when a user open the app.
 The screen will be there until components of the app are loaded.
 It can also serve as the loading screen used in the app.
+**This screen will have:**
+
+- The app icon or log. (can also have a short text)
 
 ### Welcome Screen
 
