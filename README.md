@@ -18,3 +18,10 @@ It can also serve as the loading screen used in the app.
 The screen that the user will see when first opened the app.
 This screen contains few features of the application.
 It is mostly the major features that the app have or the new features that were added to the app.
+
+**This Screen will have:**
+
+- Next button
+- Previous button
+- Skip button and
+- Images with little description
