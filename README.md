@@ -61,3 +61,14 @@ The screen that has the form to fill if user forgets the password
 **This screen will have:**
 
 - The email input
+
+### Continue Screen
+
+The screen that shows up immediately after registration for information completion.
+
+**The screen will have:**
+
+- Select School input
+- Select Faculty input
+- Select Department input and
+- Select level input
