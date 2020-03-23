@@ -34,6 +34,7 @@ These Screens will include:
 #### Login Screen
 
 The screen that have the Login form and login option for _social media signin_
+
 **This screen will have:**
 
 - Email input
@@ -46,6 +47,12 @@ The screen that have the Login form and login option for _social media signin_
 The screen that has the form for registration and _social media signup option_
 
 **This screen will have:**
+
+- Email input
+- Password Input
+- Confirm password input
+- Facebook signup button
+- Google signup button
 
 #### Password Reset Screen
 
