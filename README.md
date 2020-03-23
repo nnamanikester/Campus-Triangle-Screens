@@ -72,3 +72,23 @@ The screen that shows up immediately after registration for information completi
 - Select Faculty input
 - Select Department input and
 - Select level input
+
+### Home Screen
+
+This is the screen that is first open for returning users after showing the splash screen.
+
+**This screen have:**
+
+- Bottom tab navigation with the below navigations:
+  - Home
+  - Chat
+  - Market Place
+  - Notification and
+  - Profile
+- A button that will lead to other different screens including:
+  - Market place
+  - Test of Knowledge
+  - Past Questions && Answers
+  - CGPA Calculator
+  - etc.
+- And other features that would be added soon while the app grows.
