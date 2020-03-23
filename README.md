@@ -92,3 +92,13 @@ This is the screen that is first open for returning users after showing the spla
   - CGPA Calculator
   - etc.
 - And other features that would be added soon while the app grows.
+
+### Chat Screen
+
+### Market Place Screen
+
+### Notification Screen
+
+### Test Of Knowledge Screen
+
+### CGPA Calculator Screen
