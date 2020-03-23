@@ -4,7 +4,7 @@ This is a Repository that has all the screens in campus triangle app and the des
 
 ## Screens
 
-### Welcome Screen
+- ### Welcome Screen
 
 ```en
   The screen that the user will see when first opened the app.
