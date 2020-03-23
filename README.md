@@ -9,6 +9,7 @@ This is a Repository that has all the screens in campus triangle app and the des
 The screen that opens up first when a user open the app.
 The screen will be there until components of the app are loaded.
 It can also serve as the loading screen used in the app.
+
 **This screen will have:**
 
 - The app icon or log. (can also have a short text)
@@ -25,3 +26,31 @@ It is mostly the major features that the app have or the new features that were 
 - Previous button
 - Skip button and
 - Images with little description
+
+### Authentication Screens
+
+These Screens will include:
+
+#### Login Screen
+
+The screen that have the Login form and login option for _social media signin_
+**This screen will have:**
+
+- Email input
+- Password Input
+- Facebook signin button
+- Google signin button
+
+#### Register Screen
+
+The screen that has the form for registration and _social media signup option_
+
+**This screen will have:**
+
+#### Password Reset Screen
+
+The screen that has the form to fill if user forgets the password
+
+**This screen will have:**
+
+- The email input
