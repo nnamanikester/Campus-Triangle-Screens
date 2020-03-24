@@ -116,6 +116,8 @@ This screen will contain the list of your available contacts that are also using
 
 ### Market Place Screen
 
+The screen that all the products or items that each user posted for sale. From this screen, users can also navigate to the single product screen.
+
 ### Notification Screen
 
 ### Test Of Knowledge Screen
