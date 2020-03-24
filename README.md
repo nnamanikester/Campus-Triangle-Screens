@@ -128,6 +128,8 @@ The screen that has the information about the product coming from the Single Pro
 
 ### Notification Screen
 
+The screen that has all the notification information for a particular user. These notification might be adverts from the admin or alerts from the users activities.
+
 ### Test Of Knowledge Screen
 
 ### CGPA Calculator Screen
