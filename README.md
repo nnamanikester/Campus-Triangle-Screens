@@ -120,7 +120,11 @@ The screen that all the products or items that each user posted for sale. From t
 
 ### Single Product Screen
 
-The screen That has the information about the product coming from the Market Place Screen.
+The screen That has the information about the product coming from the Market Place Screen. From this screen You can have navigate to the checkout screen.
+
+### Checkout Screen
+
+The screen that has the information about the product coming from the Single Product Screen. From this screen users can pay for the item they want to buy.
 
 ### Notification Screen
 
