@@ -118,6 +118,10 @@ This screen will contain the list of your available contacts that are also using
 
 The screen that all the products or items that each user posted for sale. From this screen, users can also navigate to the single product screen.
 
+### Single Product Screen
+
+The screen That has the information about the product coming from the Market Place Screen.
+
 ### Notification Screen
 
 ### Test Of Knowledge Screen
