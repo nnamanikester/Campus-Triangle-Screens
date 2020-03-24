@@ -132,4 +132,4 @@ The screen that has all the notification information for a particular user. Thes
 
 ### Test Of Knowledge Screen
 
-### CGPA Calculator Screen
+The screen that has the list of subjects that a user offers in school. These subject list might be in form of a button that will take the user to a chat like environment for testing his/her Knowledge.
