@@ -95,12 +95,24 @@ This is the screen that is first open for returning users after showing the spla
 
 ### Chat Screen
 
-The screen that has everything containing chating and contacting.
+The screen that has everything containing chatting and contacting.
 This screen has a top bar with 3 navigation namely:
 
 - Chats
 - Groups and
 - Contacts
+
+#### Chats Screen
+
+This screen will contain the list of available and active chats with the chat history.
+
+#### Groups Screen
+
+This screen will contain the list of groups a user is part of and can, by clicking the group, navigate to the groups' messages.
+
+#### Contacts Screen
+
+This screen will contain the list of your available contacts that are also using the app and friends you added.
 
 ### Market Place Screen
 
