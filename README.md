@@ -95,6 +95,13 @@ This is the screen that is first open for returning users after showing the spla
 
 ### Chat Screen
 
+The screen that has everything containing chating and contacting.
+This screen has a top bar with 3 navigation namely:
+
+- Chats
+- Groups and
+- Contacts
+
 ### Market Place Screen
 
 ### Notification Screen
