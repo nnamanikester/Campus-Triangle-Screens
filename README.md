@@ -137,3 +137,9 @@ The screen that has the list of subjects that a user offers in school. These sub
 ### Subject Screen
 
 This is a chat screen. But in this case, the chat would be between the user and a bot configured specifically for that particular subject. The bot can ask questions and wait for an answer from the user. Based on the user's answer, the bot would tell the user if it's correct or not, and then scores the user.
+
+### CGPA Calculator
+
+### Past Questions && Answers screen
+
+The screen that holds the list of subjects that a user would get past questions and answers from
